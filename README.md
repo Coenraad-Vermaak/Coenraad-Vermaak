@@ -1,16 +1,43 @@
-## Hi there 👋
+# 👋 Hi, I'm Coenraad Vermaak
 
-<!--
-**Coenraad-Vermaak/Coenraad-Vermaak** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 3rd Year **Business Intelligence Student** at Belgium Campus iTversity with a previous **Bachelor's Degree in Information Technology (Software Engineering)**
 
-Here are some ideas to get you started:
+🌱 I am passionate about **software Development, Data Analytics, and Machine Learning**
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+💼 Currently seeking **internship** and **graduate opportunities** in Software Development or Data Science fields.
+
+---
+
+## 🚀 Skills
+
+### Programming Languages
+- Python
+- Java
+- C++
+- JavaScript
+- SQL
+
+### Tools & Technologies
+- Power BI
+- Arduino
+
+### Cloud Platforms
+- Azure
+
+---
+
+## 📂 Projects (In Progress)
+
+- 🤖 **Coming Soon**  
+  https://github.com/Coenraad-Vermaak/coming-soon
+
+---
+
+## 📄 Curriculum Vitae
+
+📥 **Download My CV**  
+[Link To CV]
+
+---
+
+⭐ Thanks for visiting my profile!
