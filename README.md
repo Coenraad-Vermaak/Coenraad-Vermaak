@@ -36,7 +36,7 @@
 ## 📄 Curriculum Vitae
 
 📥 **Download My CV**  
-[Link To CV]
+[Coenraad Vermaak CV](https://github.com/Coenraad-Vermaak/CV/blob/main/Coenraad%20Vermaak%20CV.pdf)
 
 ---
 
