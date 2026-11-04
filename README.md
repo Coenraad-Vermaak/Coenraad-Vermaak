@@ -39,7 +39,7 @@ In-Progress
 ## 📄 Curriculum Vitae
 
 📥 **Download My CV**  
-[Coenraad Vermaak CV](https://github.com/Coenraad-Vermaak/CV/blob/main/Coenraad%20Vermaak%20CV.pdf)
+[Coenraad Vermaak CV](https://coenraad-vermaak.github.io/CV/Coenraad%20Vermaak%20CV.pdf)
 
 ---
 
