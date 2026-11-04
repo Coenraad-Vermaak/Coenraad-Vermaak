@@ -26,10 +26,13 @@
 
 ---
 
-## 📂 Projects (In Progress)
+## 📂 Projects
 
-- 🤖 **Coming Soon**  
-  https://github.com/Coenraad-Vermaak/coming-soon
+- [**Agent-Based Modelling Framework**](https://github.com/Coenraad-Vermaak/ABM-Framework) (**Group Project**):  
+An agent-based modelling (ABM) framework built in C# and .NET 8, with a live web dashboard inspired by NetLogo. It runs five classic models, shows them on a grid in real time, and can run a model many times to compare results (Monte Carlo).
+
+- [**Roulette Table Simulator**]():  
+In-Progress
 
 ---
 
